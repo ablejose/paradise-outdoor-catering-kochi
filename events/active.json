@@ -1,0 +1,57 @@
+{
+  "slug": "paradise-outdoor-catering-kochi",
+  "name": "Paradise Outdoor Catering",
+  "shortName": "Paradise Outdoor",
+  "descriptor": "Catering Services",
+  "address": "PROF.MATHEW PAILY ROAD, NORTH, Ernakulam North, North Kaloor, Kacheripady, Ernakulam, Kochi, Keralam 682018",
+  "area": "North Kaloor",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682018",
+  "geo": {
+    "lat": 9.986309,
+    "lng": 76.2865656
+  },
+  "mapsLink": "https://maps.google.com/?cid=4429541326641224422",
+  "phone": "+91 94462 19167",
+  "whatsapp": "919446219167",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "name": "PRIYA J",
+      "rating": 5,
+      "quote": "One of the best and affordable catering service. Their food is just incredible. My friends still talks about the Mutton Biriyani that we served 10 years back 🤗 Varghese chettan and team are very flexible with their options. Understanding and down to earth people with lot of passion in what they are doing."
+    },
+    {
+      "name": "Sam Jose",
+      "rating": 5,
+      "quote": "Most of my function at home is serviced by paradise catering . Mr. Varghese is the point of contact and he is very humble and respectful person . He takes care of all the function requirement and will provide the best options available at that time . If you share the requirement he will suggest the best ."
+    },
+    {
+      "name": "6666 _JLL",
+      "rating": 5,
+      "quote": "I recommend Paradise Catering's services to anyone looking for the best quality food, authentic taste, and precise service timings for any function. Mr. Varghese Chakkalakkal takes service seriously and has an excellent track record of handling orders from 100s to 1000s."
+    },
+    {
+      "name": "Lesh Augustus",
+      "rating": 5,
+      "quote": "Very tasty native food for any events and small party trays."
+    },
+    {
+      "name": "lydia isaac",
+      "rating": 5,
+      "quote": "I highly recommend Paradise Outdoor Caterers services to anyone looking for the best quality food, authentic taste, and on time delivery.I had a wonderful experience.Thank you for your awesome service."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://paradise-outdoor-catering-kochi.vercel.app"
+}
